@@ -263,7 +263,9 @@ footer a:hover{
         padding: 5px 12px;
     }
     .welcome{
+        background:linear-gradient(rgba(137, 95, 143, 0.5),rgba(0,0,0,0.5)),url(images/background-phone.png);
         height: 50vh;
+        background-position: center center;
     }
     .welcome h1{
         width: 200px;
